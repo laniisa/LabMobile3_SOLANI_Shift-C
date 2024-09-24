@@ -18,7 +18,8 @@ Aplikasi ini adalah aplikasi restoran yang menyediakan login, halaman beranda(ho
      - Tombol Submit: Mengarahkan pengguna ke halaman HomePage jika login berhasil, atau menampilkan pesan kesalahan jika login gagal.  
 
    Screenshot :  
-   - Tampilan login page dengan ikon, form input, dan tombol submit.  
+   - Tampilan login page dengan ikon, form input, dan tombol submit. 
+   - ![Lampiran Login](login_page.jpeg) 
   
 2. Home Page  
 
@@ -29,7 +30,8 @@ Aplikasi ini adalah aplikasi restoran yang menyediakan login, halaman beranda(ho
      - Body: Teks sambutan dan informasi mengenai restoran yang diatur menggunakan widget Column dan Padding agar tampak rapi dan terstruktur.  
    
    Screenshot yang Direkomendasikan:  
-   - Tampilan halaman beranda yang memuat teks sambutan dan deskripsi restoran.  
+   - Tampilan halaman beranda yang memuat teks sambutan dan deskripsi restoran. 
+   -  ![Lampiran Login](home_page.jpeg)  
 
 3. Menu Page  
  
@@ -39,7 +41,8 @@ Aplikasi ini adalah aplikasi restoran yang menyediakan login, halaman beranda(ho
      - Card Widget: Untuk menampilkan setiap item menu dengan nama hidangan, deskripsi, dan gambar.  
    
    Screenshot yang Direkomendasikan:  
-   - Tampilan daftar menu dengan gambar, deskripsi, dan harga (jika sudah diimplementasikan).  
+   - Tampilan daftar menu dengan gambar, deskripsi, dan harga (jika sudah diimplementasikan). 
+   -  ![Lampiran Login](menu_page.jpeg)  
 
 4. Side Menu (Sidemenu)  
  
@@ -50,7 +53,8 @@ Aplikasi ini adalah aplikasi restoran yang menyediakan login, halaman beranda(ho
      - Navigator: Mengelola perpindahan antar halaman ketika pengguna memilih opsi dari menu samping.  
    
    Screenshot yang Direkomendasikan:  
-   - Tampilan drawer atau menu samping ketika dibuka, dengan daftar opsi navigasi seperti "Home" dan "Menu".  
+   - Tampilan drawer atau menu samping ketika dibuka, dengan daftar opsi navigasi seperti "Home" dan "Menu".
+   -  ![Lampiran Login](sidemenu.jpeg)   
 
 ---
 
